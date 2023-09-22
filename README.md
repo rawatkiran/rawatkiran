@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/xBplj7wABU590Ig10m/giphy.gif" width="100"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/kiran-rawat-696910151/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
