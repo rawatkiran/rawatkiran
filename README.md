@@ -23,7 +23,7 @@ I am a Computer Science Engineer <img src="https://media.giphy.com/media/WUlplcM
 
 - :zap: In my free time, I solve problems on GeeksforGeeks, Leetcode and read tech articles.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kiran-rawat-696910151/)
+- :mailbox:  How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kiran-rawat-696910151/)
 <!--
 **rawatkiran/rawatkiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
