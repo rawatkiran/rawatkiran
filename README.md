@@ -17,7 +17,7 @@
 
 ### :man_technologist: About Me :
 I am a Computer Science Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: I’m working as a Software Engineer in Walmart and contributes to frontend and backend for building web applications.
+- :telescope: I’m working as a Senior Software Engineer in Walmart and contributes to frontend and backend for building web applications.
 
 - :telescope: Exploring Astronomy.
 
