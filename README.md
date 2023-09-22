@@ -13,6 +13,17 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+---
+
+### :man_technologist: About Me :
+I am a Computer Science Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :telescope: I’m working as a Software Engineer in Walmart and contributes to frontend and backend for building web applications.
+
+- :seedling: Exploring Astronomy.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks, Leetcode and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kiran-rawat-696910151/)
 <!--
 **rawatkiran/rawatkiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
