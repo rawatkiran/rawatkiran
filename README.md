@@ -21,7 +21,7 @@ I am a Computer Science Engineer <img src="https://media.giphy.com/media/WUlplcM
 
 - :telescope: Exploring Astronomy.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks, Leetcode and read tech articles.
+- :zap: In my free time, I solve problems on GeeksforGeeks, Leetcode and read tech articles. Apart from this I like to read ,travel and dance.
 
 - :mailbox:  How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kiran-rawat-696910151/)
 <!--
